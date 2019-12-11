@@ -12,6 +12,11 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-module github.com/google/btree
+module github.com/Rikanishu/btree
 
 go 1.12
+
+require (
+	github.com/cheekybits/genny v1.0.0
+	golang.org/x/tools v0.0.0-20191210221141-98df12377212 // indirect
+)
