@@ -2,7 +2,7 @@ This is a fork of [google btree library](https://github.com/google/btree "google
 
 The fork supports 7 types - i32, i64, ui32, ui64, f32, f64, str. You can also add your own, it uses genny to generate code.
 
-*Bechmarks*
+##### Benchmarks
 
 Benchmarks were executed on macOS 10.13, 2,2 GHz Intel Core i7.
 Data for tests: GeoLite2 free database (688196 leafs).
